@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "__locale": "c",
+        "functional": "c",
+        "chrono": "c",
+        "limits": "c",
+        "random": "c",
+        "ratio": "c",
+        "semaphore": "c",
+        "algorithm": "c"
+    }
+}
